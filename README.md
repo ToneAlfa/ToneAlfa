@@ -2,7 +2,7 @@
 - 👀 I’m interested in music & co, Logic & Reason...and tools.
 - 🌱 I’m currently learning vba&basic macro, pure data, Max/msp TouchOsc. 
      Making remotemaps for Reason & Mackie C4 controler.
-     I like to make a C4 editor for remotemapping with a open source 
+     I like to make a C4 editor for remotemapping with a open source libreoffice or MS office.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
